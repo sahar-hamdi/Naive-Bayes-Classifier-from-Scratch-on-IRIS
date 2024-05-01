@@ -1,4 +1,9 @@
 # Naive-Bayes-Classifier-from-Scratch-on-IRIS
+
+![Iris-Dataset-Classification](https://github.com/sahar-hamdi/Naive-Bayes-Classifier-from-Scratch-on-IRIS/assets/93557883/1f5ebb8b-481a-48e7-8106-513a86411280)
+
+
+
 Implementation of Naive Bayes on Normal Distribution from Scratch using Iris Dataset.
 
 

@@ -2,7 +2,7 @@
 Implementation of Naive Bayes on Normal Distribution from Scratch using Iris Dataset.
 
 
-## **I Implemented Naive Bayes by Following this steps:**
+#### **I Implemented Naive Bayes by Following this steps:**
 
 1. Import Important Python Libraries.
 2. Created a Naive bayes class, contains important Functions of Naive(Fit function, CalculatStatistics to calculate mean and variance, Perior, prediction).
